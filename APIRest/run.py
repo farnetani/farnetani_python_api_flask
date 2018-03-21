@@ -4,7 +4,7 @@ from app import app
 from app.routes import *
 
 # Importando models
-from app.models import endereco # tem que importar primeiro o endereço 
+from app.models import endereco # tem que importar primeiro o endereço
 from app.models import usuario
 
 if __name__ == '__main__':
